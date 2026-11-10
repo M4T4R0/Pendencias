@@ -1,0 +1,36 @@
+PENDÊNCIAS — app de pendrive
+============================
+
+COMO USAR
+1. Copie esta pasta "Pendencias" inteira para o pendrive.
+2. Dê dois cliques em Pendencias.exe.
+   - Abre a janela do app (Edge ou Chrome, sem internet).
+   - Aparece um ícone azul com ✓ perto do relógio do Windows.
+     Se não aparecer, clique na setinha ^ perto do relógio.
+3. Pode fechar a janela: o ícone continua lá e te avisa.
+
+NOTIFICAÇÕES
+- Avisa ao abrir e às 09:00, 13:30 e 16:30 se tiver pendência
+  atrasada ou para hoje. Os horários mudam em  ? Ajuda.
+- Clique na notificação ou no ícone para abrir o app.
+- Botão direito no ícone:
+    Abrir Pendências
+    Ver avisos agora
+    Abrir junto com o Windows (neste PC)  -> marca uma vez em cada PC
+    Sair (para de avisar)
+- Se a notificação não aparecer: veja se o "Não perturbe" /
+  "Assistente de foco" do Windows está ligado.
+
+SEUS DADOS
+- Ficam no próprio pendrive: dados\pendencias.json
+- Um backup por dia em: dados\backup\
+- Para trazer os dados da versão antiga (pendencias.html):
+  coloque o arquivo pendencias.json ao lado do Pendencias.exe ANTES
+  de abrir pela primeira vez, ou use  ? Ajuda > Importar backup.
+
+PRIMEIRA VEZ EM UM PC
+- Se o Windows mostrar "O Windows protegeu o computador":
+  clique em "Mais informações" > "Executar assim mesmo".
+  (O programa não é assinado digitalmente; isso é normal.)
+- Antes de tirar o pendrive, clique com o botão direito no
+  ícone > Sair.

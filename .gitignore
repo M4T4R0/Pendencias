@@ -1,0 +1,20 @@
+# Dados reais das pendências (produtos, cadastros, alterações) e backups
+dados/
+backup/
+pendencias.json
+pendencias-*.json
+*.backup.json
+# só o exemplo inventado entra
+!exemplos/pendencias.exemplo.json
+
+# Programa compilado e pacotes
+*.exe
+*.zip
+dist/
+
+# Logs e temporários
+*.log
+*.tmp
+~$*
+Thumbs.db
+desktop.ini
